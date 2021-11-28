@@ -306,49 +306,64 @@ ___
 - Vale ressaltar que esta entrevista é sigilosa e em anonimato, não será em hipótese alguma divulgada publicamente.
 
 **-Primeiramente, gostaria que me explicasse qual é o principal objetivo deste projeto.**
+
 -Nós já atuamos com as áreas de psicologia, psiquiatria e hipnoterapia, porém apenas no atendimento presencial. Com o avanço da pandemia nós enxergamos a oportunidade de unir os três tratamentos em um único sistema online, além de trazer melhorias como a parceria com farmácias e entregas via delivery.
 
 **-Fale sobre quais são as suas principais atividades na organização, explique como é atualmente o processo do escopo principal.**
+
 -Sou o diretor e fundador da empresa, mas participo ativamente de todas as rotinas. Hoje tenho uma clínica especializada em psicologia, psiquiatria e hipnoterapia. Os atendimentos atualmente são apenas presenciais.
 Com o avanço da pandemia, enxergamos a oportunidade de inovar e com isso queremos um software que nos permita realizar atendimentos remotos, criar parcerias com farmácias para compra de remédios de forma automatizada, e ter o sistema de entrega de medicamentos via delivery.
 
 **-Quais são as vantagens e desvantagens do processo atual na organização?**
+
 -Atualmente temos uma única unidade e com estrutura apenas para atendimentos presenciais. O lado positivo nisso tudo é que temos bons profissionais e uma ótima gama de clientes.
 
 **-Quem poderia usar este produto na organização?**
+
 -Na organização quem poderá utilizar o software a ser desenvolvido são os profissionais e administradores do sistema.
 
 **-Quais são as necessidades que este produto atenderá?**
+
 -A expansão dos negócios, podendo captar clientes de diversas regiões sem que o mesmo tenha que comparecer presencialmente, e o atendimento flexível para que os clientes possam agendar suas consultas no horário desejado sem ter que encarar filas.
 
 **-Quais são os objetivos deste produto?**
+
 -Atuar como facilitador para o agendamento de consultas, realizar atendimentos de forma remota e venda de medicamentos pela própria plataforma de acordo com o pedido médico.
 
 **-Como este produto irá adicionar valor para a empresa?**
+
 -Uma vez que estamos na era digital e as empresas estão se reinventando cada vez mais, não podemos ficar para trás. A expansão de nossos serviços para o meio online irá potencializar nosso negócio.
 
 **-Quais atributos deste produto são críticos para atender às necessidades da empresa e portanto, para o sucesso do projeto?**
+
 -Um requisito imprescindível para o projeto é a Eficiência. Visto que nossa principal função será a consulta de profissionais com clientes. O recurso de videochamadas, por exemplo, deverá apresentar alta eficiência.
 
 **-Como o produto proposto se compara aos produtos existentes dos concorrentes ou da mesma empresa? O que você sabe sobre produtos similares?**
+
 -As consultas remotas hoje já são uma realidade. Nossa proposta é unir consultas online dos profissionais das áreas citadas (Hipnoterapia, Psicologia e Psiquiatria). O nosso diferencial do mercado atual serão as parcerias com farmácias que iremos realizar, além da entrega de medicamentos via delivery.
 Encontramos empresas que realizam consultas online em psiquiatria e psicologia apenas, mas nenhuma delas incluíam os três tratamentos juntos, parceria com farmácias e entregas via delivery.
 
 **-Quais os critérios de qualidade para o produto (software) proposto?**
+
 -Prezamos pela eficiência, portabilidade e confiabilidade. Portabilidade, pois nosso software deve apresentar pleno funcionamento em diversas plataformas (Web, desktop, mobile). Confiabilidade pois não podemos correr o risco de perder os dados, por exemplo, de clientes, consultas, pagamentos e entre outros. 
 
 **-Quais sugestões você teria para melhorar o produto proposto?**
+
 -No momento, acredito que nada. Mas no futuro talvez seja interessante incluirmos outros tipos de consultas da área da saúde, para podermos tratar em conjunto um único paciente.
 
 **-Quais os dados que você acredita que devem ser fornecidos para acessar o sistema?**
+
 -Acredito que logar com CPF e senha seja o mais seguro.
 
 **-Como os profissionais interessados poderão se cadastrar na plataforma?**
+
 -Neste caso, o mesmo poderá fazer um pré-cadastro em nosso sistema, podendo atuar de fato, apenas após a avaliação e aprovação do administrador.
 
 **-O que acha que é necessário para que você considere o projeto finalizado?**
+
 -Eu prefiro que o sistema seja entregue apenas quando estiver completo e apto para fazer seu papel. Como estamos tratando com dados pessoais e sensíveis não podemos correr o risco de falhas. De qualquer forma me disponho a participar de todas as etapas caso seja necessário.
 
 **-Você teria algo a acrescentar sobre o que conversamos?**
+
 -No momento não, obrigado.
 
