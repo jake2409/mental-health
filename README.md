@@ -129,7 +129,7 @@ ___
   <li>Ter opção de comunicação de chat e vídeo chamada.</li>
 </ul>
 
-✨ **3.2 Requisitos Funcionais:**
+✨ **3.2 Requisitos Não Funcionais:**
 <ul>
   <li>O software deverá atender os sistemas operacionais Android, IOS e Web;</li>
   <li>Banco de dados SQL (Structured Query Language);</li>
@@ -140,7 +140,7 @@ ___
   <li>Deve ser criptografado.</li>
 </ul>
 
-✨ **3.3 Caso de Uso:**
+✨ **3.3 Casos de Uso:**
 <div align="center">
   <img src="/img/casodeuso.png">
 </div>
@@ -260,11 +260,12 @@ Destacamos a norma ISO 9126, que define parâmetros com o objetivo de padronizar
 <img src="/img/qualidade.png">
 
 A nossa equipe de desenvolvimento decidiu destacar três atributos:
+
 <b>Confiabilidade:</b> Nos testes realizados pela equipe, o software apresentou boa recuperação em relação a falhas, o software possui um sistema de logs em cache onde armazena as falhas frequentes provocadas pelos usuários, para a equipe de desenvolvimento analisar e procurar as soluções.
 
 <b>Eficiência:</b> A utilização de ferramentas, frameworks e api’s foram escolhidas pela equipe a fim de melhorar a conformidade do sistema, oferecendo dados a uma interface extremamente fluida, trazendo um comportamento em relação ao tempo otimizado. Ainda, a equipe de desenvolvimento teve o cuidado de planejar a base de dados de forma a evitar sobrecargas não necessárias, afinal por se tratar de uma aplicação externa, temos em mente que podemos receber milhares de requisições em nossos servidores em um leque de tempo baixo.
 
-<b>Manutenabilidade:</b> A equipe de QA (Quality Assurance) oferece apoio aos desenvolvedores, efetuando durante o desenvolvimento diversos testes a fim de identificar problemas no código, funcionamento e nos tópicos em manutenabilidade, com o objetivo de solucionar as falhas e consequentemente serem as mínimas possíveis, até que o software entre em produção.
+<b>Manutenibilidade:</b> A equipe de QA (Quality Assurance) oferece apoio aos desenvolvedores, efetuando durante o desenvolvimento diversos testes a fim de identificar problemas no código, funcionamento e nos tópicos em manutenibilidade, com o objetivo de solucionar as falhas e consequentemente serem as mínimas possíveis, até que o software entre em produção.
 Contudo, por escolhermos o método de desenvolvimento incremental, temos em mente um software que estará em constante evolução trazendo assim, manutenções e updates constantemente.
 
 ___
