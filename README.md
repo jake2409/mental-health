@@ -2,7 +2,7 @@
   <img src="/img/Logo_sem_fundo_-_Mental_Health.png">
 </div>
 
-Este material é um guia para o desenvolvimento do projeto Mental-Health. Dentro dos aprendizados, destaco os seguintes pontos como principais aprendizados:
+Este material é um guia para o desenvolvimento do projeto Mental-Health. Dentro dos aprendizados, destacamos os seguintes pontos como principais aprendizados:
 
 <ul>
   <li>Entender o proposito do nosso projeto Mental-Health através dos requisitos listados e escolhidos, e o nosso caso de uso;</li>
